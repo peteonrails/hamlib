@@ -212,7 +212,9 @@
 #define RIG_MODEL_IC7100 RIG_MAKE_MODEL(RIG_ICOM, 70)
 #define RIG_MODEL_ID5100 RIG_MAKE_MODEL(RIG_ICOM, 71)
 #define RIG_MODEL_IC2730 RIG_MAKE_MODEL(RIG_ICOM, 72)
-/* next one is 73 */
+#define RIG_MODEL_IC7300 RIG_MAKE_MODEL(RIG_ICOM, 73)
+
+/* next one is 74 */
 
 	/*
 	 * Optoelectronics (CI-V)
@@ -456,7 +458,7 @@
 
 
 	/*
-	 * VEB Funkwerk Köpenick RFT
+	 * VEB Funkwerk KÃ¶penick RFT
 	 */
 #define RIG_RFT 24
 #define RIG_BACKEND_RFT "rft"
