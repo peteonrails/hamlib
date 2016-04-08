@@ -1,7 +1,7 @@
 /*
  *  Hamlib CI-V backend - description of IC-7300 and variations
- *  Adapted by P.Jackson from IC7200_SCAN_OPS00 code (c) 2004 by J.Watson
- *
+ *  Adapted by P.Jackson from IC7000 code (c) 2004-2010 by Stephane Fillod
+ *  With further credit to Kent Hill for his IC-7800 code
  *
  *   This library is free software; you can redistribute it and/or
  *   modify it under the terms of the GNU Lesser General Public
